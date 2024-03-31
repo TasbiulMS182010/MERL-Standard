@@ -11,3 +11,8 @@ Additional resources:
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 
 The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+
+To Push it to the github:
+library(usethis)
+use_git()
+use_github()
